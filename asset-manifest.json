@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.7d71591f.chunk.js",
+    "main.js.map": "/static/js/main.7d71591f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf7277ef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf7277ef.js.map",
+    "static/js/2.2e3aa2ef.chunk.js": "/static/js/2.2e3aa2ef.chunk.js",
+    "static/js/2.2e3aa2ef.chunk.js.map": "/static/js/2.2e3aa2ef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cda0d5373681e4f04194cab7e0ee5eb3.js": "/precache-manifest.cda0d5373681e4f04194cab7e0ee5eb3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2e3aa2ef.chunk.js.LICENSE.txt": "/static/js/2.2e3aa2ef.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/lucas-delboni.jpg": "/static/media/lucas-delboni.22d57be8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf7277ef.js",
+    "static/js/2.2e3aa2ef.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7d71591f.chunk.js"
+  ]
+}
